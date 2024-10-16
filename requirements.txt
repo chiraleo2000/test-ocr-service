@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-dotenv
+azure-ai-formrecognizer==3.3.3
+azure-core
+pdf2image
+python-multipart
